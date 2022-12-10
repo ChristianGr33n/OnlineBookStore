@@ -8,7 +8,7 @@ instructions:
 2. in postgresql, create a database with the name "BookStore" 
 3. using the query tool, run DDL.sql (located in the SQL directory)
 4. using the query tool again, run data.sql (also located in the SQL directory)
-5. change any of the login information in Book_Store.py to match your postgresql (line 5)
+5. change any of the login information in Book_Store.py to match your postgresql (line 7)
 6. compile and run Book_Store.py
 
 
